@@ -17,7 +17,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+[Launch the utility:](https://imgur.com/a/j0QKpTQ.png) <br/>
 <img src="https://imgur.com/a/j0QKpTQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
