@@ -18,7 +18,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/j0QKpTQ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/j0QKpTQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
@@ -38,7 +38,7 @@ Wait for process to complete (may take some time):  <br/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://imgur.com/a/6cIRRRt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/6cIRRRt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
